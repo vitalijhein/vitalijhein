@@ -6,6 +6,13 @@ AI Architect & Engineer at [Reply](https://www.reply.com) in the Microsoft
 practice. Part of the team that won the **Microsoft AI Challenge 2025**.
 Dipl.-Ing., TU Wien.
 
+### Operating at fleet scale
+
+A year of building with AI agents across four coding tools: close to **100
+billion tokens** and **~450,000 agent requests**. I instrument everything I
+run. [**tokmeter**](https://github.com/vitalijhein/tokmeter) is the open-source
+tool I built to do it.
+
 ### What I build
 
 - **Multi-agent systems** that run research, planning, implementation, and
@@ -17,16 +24,9 @@ Dipl.-Ing., TU Wien.
 - Making **Microsoft Copilot Studio and Azure AI** work in production after the
   demo is over.
 
-### Operating at fleet scale
-
-A year of building with AI agents across four coding tools: close to **100
-billion tokens** and **~450,000 agent requests**. I instrument everything I
-run. [**tokmeter**](https://github.com/vitalijhein/tokmeter) is the open-source
-tool I built to do it.
-
 ### Open source
 
-- [**tokmeter**](https://github.com/vitalijhein/tokmeter) — unified,
+- [**tokmeter**](https://github.com/vitalijhein/tokmeter): unified,
   deduplicated token usage across Claude Code, Codex, Pi, and Openclaw. One
   file, zero dependencies, MIT.
 - More in progress: anonymized engineering case studies and a personal-data OS
