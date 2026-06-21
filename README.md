@@ -17,12 +17,13 @@ tool I built to do it.
 
 - **Multi-agent systems** that run research, planning, implementation, and
   review end to end. Not chatbots with a loop.
+- **Production AI on Azure**: Copilot Studio agents, Azure Communication
+  Services voice, Azure AI Foundry and OpenAI, wired with real-time and
+  event-driven cloud architecture. The Microsoft AI that holds up after the demo.
 - **RAG from POC to production**: entity-aware retrieval, compliance guardrails,
   DDD-clean backends.
 - **Enterprise document intelligence**: dual-method OCR, batch extraction, and
   audit logging for German enterprise workflows.
-- Making **Microsoft Copilot Studio and Azure AI** work in production after the
-  demo is over.
 
 ### Open source
 
@@ -34,8 +35,9 @@ tool I built to do it.
 
 ### Stack
 
-Python · FastAPI · TypeScript / React · Azure AI · Semantic Kernel ·
-LangGraph (usually custom) · MongoDB · Postgres
+Python · FastAPI · TypeScript / React · Azure AI Foundry · Azure
+Communication Services · Semantic Kernel · LangGraph (usually custom) ·
+MongoDB · Postgres
 
 ### Reach me
 
